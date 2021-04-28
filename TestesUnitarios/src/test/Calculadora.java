@@ -21,7 +21,7 @@ public class Calculadora {
 				}
 				
 			} catch (ArithmeticException e) {
-				System.out.println("num divide por 01"+ e);
+				System.out.println("num divide por 0"+ e);
 				return 0;
 			}
 			
